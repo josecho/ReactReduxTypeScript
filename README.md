@@ -1,6 +1,8 @@
 
 npx create-react-app projectName --typescript
 
+Delete src directory and create new one. Go a head.
+
 --------------
 
 
